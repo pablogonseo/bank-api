@@ -126,8 +126,9 @@ mvn test
 
 ---
 
-## Notas adicionales
+## Notas adicionales:
 
 * La API está implementada con almacenamiento en memoria (`HashMap`).
 * La versión de la API se indica en la URL (`/v1/`).
 * El token de autenticación es fijo para la prueba técnica y solo sirve para validación básica.
+
